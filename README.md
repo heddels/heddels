@@ -48,7 +48,7 @@ I am a Data Science & Management graduate student, currently doing my ERASMUS ye
 </p>
 
 
-![Snake animation](https://github.com/heddels/heddels/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/heddels/heddels/github-contribution-grid-snake.svg)
 
 <!--
 **heddels/heddels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
