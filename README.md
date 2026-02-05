@@ -5,11 +5,13 @@
 </div>
 
 ## About Me
-I am a Data Science & Management graduate student, currently doing my ERASMUS year at Vienna University of Technology, focusing on deep learning, generative AI, and AI ethics. I started my professional journey in marketing and management and only recently moved into the data science and programming world. I love to learn new things and develop solutions for different problems.
+I am a Data Science & Management graduate student, currently writing my Master's Thesis on "Clustered Federated Learning for Non-linear Control Applications" with the Austrian Institute of Technology GmbH in Vienna.
+So right now, it is all about getting to know the world of nonlinear control and finding solutions for decentralization and data heterogeneity.
+I started my professional journey in marketing and management and only recently moved into the data science and programming world. I love to learn new things and develop solutions for different problems.
 
 <!-- - 🔭 I'm currently working on **[PROJECT NAME]** -->
-- 🌱 I'm currently learning about **security, privacy and explainability in ML**, **knowledge graphs**, and **advanced coding for data science**
-- 👯 I like to play basketball, eat and cook good food, read about society and talk about AI topics and how it shapes 
+- 🌱 I'm currently learning about **nonlinear control and data driven control**, **vibe coding with Claude Code**
+- 👯 I like to play basketball, eat and cook good food and read about society 
 - 💬 Ask me about **leanring how to learn** and **bread baking**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hedda-fiedler-a43b16176/) 
 
@@ -39,7 +41,7 @@ I am a Data Science & Management graduate student, currently doing my ERASMUS ye
 
 - **B.A. Global Management** 
   Bremen University of Applied Sciences, Germany  
-  *Final Grade: 1.1*
+
 
 
 
