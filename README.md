@@ -10,9 +10,9 @@ So right now, it is all about getting to know the world of nonlinear control and
 I started my professional journey in marketing and management and only recently moved into the data science and programming world. I love to learn new things and develop solutions for different problems.
 
 <!-- - 🔭 I'm currently working on **[PROJECT NAME]** -->
-- 🌱 I'm currently learning about **nonlinear control and data driven control**, **vibe coding with Claude Code**
+- 🌱 I'm currently learning about **nonlinear control and data driven control** and **vibe coding with Claude Code**
 - 👯 I like to play basketball, eat and cook good food and read about society 
-- 💬 Ask me about **leanring how to learn** and **bread baking**
+- 💬 Ask me about **how it feels to start knitting** 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hedda-fiedler-a43b16176/) 
 
 
